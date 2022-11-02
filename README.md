@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nazliiguluyarr
+- 📈 I’m studying Economics degree
+- 🌱 I’m currently learning "C" and "algorithms"
